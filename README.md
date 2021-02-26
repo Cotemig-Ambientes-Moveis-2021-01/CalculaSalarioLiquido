@@ -12,10 +12,11 @@ repositories{<br/>
 dependencies {<br/>
     implementation 'com.github.BlacKCaT27:CurrencyEditText:2.0.2'<br/>
 }<br/>
-<br/>
-    <com.blackcat.currencyedittext.CurrencyEditText
-        android:id="@+id/editTextSalario"
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:layout_marginHorizontal="20dp"
-        android:layout_marginTop="10dp"/>
+<br/><br/>
+<strong>Trecho de código do activity_main.xml</strong><br/>
+    <com.blackcat.currencyedittext.CurrencyEditText<br/>
+        android:id="@+id/editTextSalario"<br/>
+        android:layout_width="match_parent"<br/>
+        android:layout_height="50dp"<br/>
+        android:layout_marginHorizontal="20dp"<br/>
+        android:layout_marginTop="10dp"/><br/>
