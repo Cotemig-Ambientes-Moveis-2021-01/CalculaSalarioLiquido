@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalculoIR</string>
+
+
+    <!-- tela de cálculo do imposto de renda -->
+    <string name="title">Cálculo do Imposto de Renda</string>
+    <string name="salario">Salário</string>
+    <string name="calcula">Calcula</string>
+
+    <!-- tela de resultado -->
+    <string name="salario_liquido">Salário Líquido: %s</string>
+    <string name="imposto">Imposto: %s</string>
+
+</resources>
