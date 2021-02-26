@@ -1,6 +1,6 @@
 # CalculaSalarioLiquido
 
-Git
+<strong>Acesso ao Git do componente de EditText para moeda</strong><br/>
 https://github.com/BlacKCaT27/CurrencyEditText
 
 <strong>Configuração do gradle do projeto</strong><br/>
