@@ -5,22 +5,22 @@ https://github.com/BlacKCaT27/CurrencyEditText
 
 ## Configuração do gradle do projeto
 ```
-repositories{<br/>
-    maven { url "https://jitpack.io" }<br/>
+repositories{
+    maven { url "https://jitpack.io" }
 }
 ```
 ## Configuração do gradle do app
 ```
 dependencies {
-    implementation 'com.github.BlacKCaT27:CurrencyEditText:2.0.2'<br/>
+    implementation 'com.github.BlacKCaT27:CurrencyEditText:2.0.2'
 }
 ```
 ## Trecho de código do activity_main.xml
 ```
-    <com.blackcat.currencyedittext.CurrencyEditText<br/>
-        android:id="@+id/editTextSalario"<br/>
-        android:layout_width="match_parent"<br/>
-        android:layout_height="50dp"<br/>
-        android:layout_marginHorizontal="20dp"<br/>
-        android:layout_marginTop="10dp"/><br/>
+    <com.blackcat.currencyedittext.CurrencyEditText
+        android:id="@+id/editTextSalario"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"/>
 ```
